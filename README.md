@@ -1,1 +1,3 @@
-# fg_pics
+```
+assert(fg.is("dsb"))
+```
